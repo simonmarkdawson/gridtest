@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 
 public class MainActivity extends Activity {
-    String selectedItem;
+    String selectedItems;
     GridView gview;
     TextView tv1;
     Integer tempint;
